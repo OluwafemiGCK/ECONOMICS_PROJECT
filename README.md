@@ -39,7 +39,7 @@ Governments often deploy production subsidies as part of fiscal policy to stimul
 
 - `project_dofile_PPI.do`: STATA script analyzing the impact on Producer Price Index.
 - `project_dofile_HCPI.do`: STATA script analyzing the impact on Headline Consumer Price Index.
-- `PRODUCTION SUBSIDIES-ITS IMPACT ON PRODUCER AND CONSUMER PRICE INDEX.docx`: Full research document detailing methodology, literature review, data sources, results, and policy implications.
+
 
 ## How to Run
 
