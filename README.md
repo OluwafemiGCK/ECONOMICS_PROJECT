@@ -52,7 +52,3 @@ Governments often deploy production subsidies as part of fiscal policy to stimul
 ## License
 
 This project is made available for academic and non-commercial use only. Please cite the author if used in derivative work.
-
-## Acknowledgements
-
-Supervised by **Prof. Richard Tol**, University of Sussex.
