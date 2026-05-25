@@ -3,6 +3,12 @@
 
 This project examines the empirical relationship between production subsidies and inflation dynamics, measured using the Producer Price Index (PPI) and Headline Consumer Price Index (HCPI), across five countries: Lithuania, Morocco, South Africa, the United Kingdom, and the United States. The study was developed as part of an MSc dissertation in Development Economics at the University of Sussex.
 
+## Abstract
+
+This study examines the short-run and long-run effects of production subsidies on inflation dynamics across Lithuania, Morocco, South Africa, the United Kingdom, and the United States between 2002 and 2021. Using a Panel Autoregressive Distributed Lag (ARDL) framework, the study investigates how production subsidies influence changes in the Producer Price Index (PPI) and Headline Consumer Price Index (HCPI), while accounting for macroeconomic variables such as interest rates, money supply, and unemployment.
+
+The findings reveal significant long-run positive relationships between production subsidies and both producer and consumer prices across the panel, suggesting that subsidies may contribute to inflationary pressures over time. However, short-run dynamics vary across countries due to structural economic differences and policy environments. The study contributes to broader discussions on fiscal policy effectiveness, inflation management, and macroeconomic stabilization in both developed and emerging economies.
+
 ## Project Overview
 
 Governments often deploy production subsidies as part of fiscal policy to stimulate output and manage inflation. This project investigates both the short-run and long-run effects of such subsidies on producer and consumer prices using panel data from 2002 to 2021.
@@ -26,6 +32,13 @@ Governments often deploy production subsidies as part of fiscal policy to stimul
   - Lending Interest Rate
   - Unemployment Rate
   - Money Supply
+ 
+## Skills & Tools Used
+- STATA
+- Panel Econometrics
+- PMG Estimation
+- Macroeconomic Analysis
+- Data Cleaning
 
 ## Findings
 
