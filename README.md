@@ -1,7 +1,7 @@
 
 # Production Subsidies: Its Impact on Producer and Consumer Price Index
 
-This project explores the empirical relationship between production subsidies and inflation dynamics, measured via the Producer Price Index (PPI) and Headline Consumer Price Index (HCPI), in five countries: Lithuania, Morocco, South Africa, the United Kingdom, and the United States. It was developed as part of an MSc dissertation in Development Economics at the University of Sussex.
+This project examines the empirical relationship between production subsidies and inflation dynamics, measured using the Producer Price Index (PPI) and Headline Consumer Price Index (HCPI), across five countries: Lithuania, Morocco, South Africa, the United Kingdom, and the United States. The study was developed as part of an MSc dissertation in Development Economics at the University of Sussex.
 
 ## Project Overview
 
