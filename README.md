@@ -1,5 +1,5 @@
 
-# Production Subsidies: Its Impact on Producer and Consumer Price Index
+# Production Subsidies and Inflation Dynamics: Evidence from Producer and Consumer Price Indices
 
 This project examines the empirical relationship between production subsidies and inflation dynamics, measured using the Producer Price Index (PPI) and Headline Consumer Price Index (HCPI), across five countries: Lithuania, Morocco, South Africa, the United Kingdom, and the United States. The study was developed as part of an MSc dissertation in Development Economics at the University of Sussex.
 
@@ -25,24 +25,30 @@ Governments often deploy production subsidies as part of fiscal policy to stimul
 - **Countries Studied**: Lithuania, Morocco, South Africa, United Kingdom, United States
 - **Econometric Model**: Panel Autoregressive Distributed Lag (ARDL)
 - **Estimation Strategy**: Pooled Mean Group (PMG) estimator selected via Hausman test
-- **Key Variables**:
-  - PPI (Producer Price Index)
-  - HCPI (Headline Consumer Price Index)
-  - Production Subsidies (% of GDP)
-  - Lending Interest Rate
-  - Unemployment Rate
-  - Money Supply
+
  
 ## Skills & Tools Used
 - STATA
-- Panel Econometrics
-- PMG Estimation
-- Macroeconomic Analysis
-- Data Cleaning
+- Panel Data Econometrics
+- Panel ARDL Modelling
+- Pooled Mean Group (PMG) Estimation
+- Hausman Specification Testing
+- Macroeconomic Policy Analysis
+- Cross-Country Comparative Analysis
+- Data Cleaning and Transformation
+- Empirical Economic Research
+
+## Key Variables
+- Producer Price Index (PPI)
+- Headline Consumer Price Index (HCPI)
+- Production Subsidies (% of GDP)
+- Lending Interest Rate
+- Unemployment Rate
+- Money Supply
 
 ## Findings
 
-- **Long-Run Impact**: Production subsidies have a statistically significant positive impact on both PPI and HCPI, suggesting that over time, they may contribute to inflationary pressure.
+- **Long-Run Impact**: Production subsidies have a statistically significant positive impact on both PPI and HCPI, suggesting that                          over time, they may contribute to inflationary pressure.
 - **Short-Run Dynamics**: Vary across countries. For instance:
   - In **Lithuania**, subsidies reduce PPI in the short run.
   - In **South Africa**, subsidies increase PPI significantly.
